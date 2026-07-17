@@ -6,7 +6,7 @@ allowBuilds:
   esbuild: true
 
 catalog:
-  typescript: ^5.9.3
+  typescript: ^7.0.2
   vitest: ^4.1.10
   tsup: ^8.5.1
   zod: ^4.4.3
