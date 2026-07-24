@@ -15,7 +15,7 @@
     "@trackpress/core": "workspace:^",
     "@trackpress/themes": "workspace:^",
     "react": "^19.2.7",
-    "react-dom": "^19.2.7"
+    "react-dom": "^19.2.8"
   },
   "devDependencies": {
     "@types/react": "^19.2.17",
